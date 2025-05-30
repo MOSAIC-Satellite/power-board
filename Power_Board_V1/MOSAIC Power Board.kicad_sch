@@ -183,6 +183,368 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "INA219B_breakout_board_2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U1"
+				(at 3.8608 1.5748 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "~"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "power_board_footprints_V1.0:INA219 Breakout"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/downloads"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "INA219B_breakout_board_2_0_1"
+				(rectangle
+					(start 0 0)
+					(end 7.5 -17.78)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "INA219B_breakout_board_2_1_1"
+				(pin input line
+					(at 10.5156 -2.032 180)
+					(length 3)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.5156 -4.5212 180)
+					(length 3)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -7.0612 180)
+					(length 3)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -9.5504 180)
+					(length 3)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -12.0396 180)
+					(length 3)
+					(name "VIN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -14.5796 180)
+					(length 3)
+					(name "VIN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "INA219B_breakout_board_3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U1"
+				(at 3.8608 1.5748 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "~"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "power_board_footprints_V1.0:INA219 Breakout"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/downloads"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "INA219B_breakout_board_3_0_1"
+				(rectangle
+					(start 0 0)
+					(end 7.5 -17.78)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "INA219B_breakout_board_3_1_1"
+				(pin input line
+					(at 10.5156 -2.032 180)
+					(length 3)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.5156 -4.5212 180)
+					(length 3)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -7.0612 180)
+					(length 3)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -9.5504 180)
+					(length 3)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -12.0396 180)
+					(length 3)
+					(name "VIN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -14.5796 180)
+					(length 3)
+					(name "VIN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "MOSAIC_Power_Board:B5817WS-TPMSTR-ND"
 			(pin_numbers
 				(hide yes)
@@ -564,477 +926,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MOSAIC_Power_Board:CONN 2mm JST"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J4"
-				(at 13.6144 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "CONN 2MM JST"
-				(at 13.6144 -5.08 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
-				(at 5 -14.5 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
-				(at 8.5 -21 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "S2B-PH-SM4-TB"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CONN_S2B-PH-SM4-TB_JST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "CONN 2mm JST_1_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -10.16) (xy 12.7 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -10.16) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -0.1016 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -0.1016 -5.2324 0)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -0.1016 -7.874 0)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -0.0508 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "CONN 2mm JST_1_2"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -10.16) (xy 12.7 -10.16)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 8.89 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 8.89 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 8.89 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 8.89 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 5.08 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 8.89 -4.2333)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -5.08) (xy 8.89 -5.9267)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 5.08 -7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 8.89 -6.7733)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 8.89 -8.4667)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -10.16) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -7.62 0)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "MOSAIC_Power_Board:GND"
 			(power)
 			(exclude_from_sim no)
@@ -1120,187 +1011,6 @@
 						(effects
 							(font
 								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "MOSAIC_Power_Board:INA219B_breakout_board"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U1"
-				(at 3.8608 1.5748 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "~"
-				(at -2.54 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "MOSAIC_main_board_v1.0_footprints:INA219 Breakout"
-				(at -2.54 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/downloads"
-				(at -2.54 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "INA219B_breakout_board_0_1"
-				(rectangle
-					(start 0 0)
-					(end 7.5 -17.78)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "INA219B_breakout_board_1_1"
-				(pin input line
-					(at 10.5156 -2.032 180)
-					(length 3)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.5156 -4.5212 180)
-					(length 3)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 10.5156 -7.0612 180)
-					(length 3)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 10.5156 -9.5504 180)
-					(length 3)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 10.5156 -12.0396 180)
-					(length 3)
-					(name "VIN-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 10.5156 -14.5796 180)
-					(length 3)
-					(name "VIN+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
 							)
 						)
 					)
@@ -46102,6 +45812,857 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "main_board_symbols_V1.0:GND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -0.254 0)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify top)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power_board_symbols_V1.0:CONN 2mm JST"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J4"
+				(at 13.6144 -2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "CONN 2MM JST"
+				(at 13.6144 -5.08 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
+				(at 5 -14.5 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+				(at 8.5 -21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "S2B-PH-SM4-TB"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CONN_S2B-PH-SM4-TB_JST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CONN 2mm JST_1_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -10.16) (xy 12.7 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -10.16) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -0.1016 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -0.1016 -5.2324 0)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -0.1016 -7.874 0)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -0.0508 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "CONN 2mm JST_1_2"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -10.16) (xy 12.7 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 8.89 0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 8.89 -0.8467)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 8.89 -1.6933)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 8.89 -3.3867)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 8.89 -4.2333)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 8.89 -5.9267)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 5.08 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 8.89 -6.7733)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -7.62) (xy 8.89 -8.4667)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -10.16) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power_board_symbols_V1.0:INA219B_breakout_board"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U1"
+				(at 3.8608 1.5748 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "~"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "MOSAIC_main_board_v1.0_footprints:INA219 Breakout"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/downloads"
+				(at -2.54 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "INA219B_breakout_board_0_1"
+				(rectangle
+					(start 0 0)
+					(end 7.5 -17.78)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "INA219B_breakout_board_1_1"
+				(pin input line
+					(at 10.5156 -2.032 180)
+					(length 3)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.5156 -4.5212 180)
+					(length 3)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -7.0612 180)
+					(length 3)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -9.5504 180)
+					(length 3)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -12.0396 180)
+					(length 3)
+					(name "VIN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.5156 -14.5796 180)
+					(length 3)
+					(name "VIN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "-X"
 		(exclude_from_sim no)
@@ -48401,7 +48962,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 114.9604 65.4304 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -48427,7 +48988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 100.4604 70.4304 0)
 			(effects
 				(font
@@ -48453,6 +49014,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -49023,7 +49585,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:INA219B_breakout_board")
+		(lib_id "power_board_symbols_V1.0:INA219B_breakout_board")
 		(at 92.6592 44.6024 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49047,7 +49609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSAIC_Power_Board:INA219 Breakout"
+		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:INA219 Breakout"
 			(at 90.1192 43.3324 0)
 			(effects
 				(font
@@ -49071,6 +49633,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
@@ -49577,7 +50140,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 194.31 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49603,7 +50166,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 179.81 124.38 0)
 			(effects
 				(font
@@ -49629,6 +50192,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -49802,6 +50366,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 114.3 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39c61dba-89ab-47f8-a87c-a86501948cfb")
+		(property "Reference" "H8"
+			(at 116.84 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 116.84 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 114.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 114.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547532")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "MOSAIC_Power_Board:GND")
 		(at 128.7272 61.8236 180)
 		(unit 1)
@@ -49866,7 +50497,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 254.6604 119.9388 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49892,7 +50523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 240.1604 124.9388 0)
 			(effects
 				(font
@@ -49918,6 +50549,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -50015,7 +50647,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:INA219B_breakout_board")
+		(lib_id "power_board_symbols_V1.0:INA219B_breakout_board")
 		(at 212.6996 45.1612 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50039,7 +50671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSAIC_Power_Board:INA219 Breakout"
+		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:INA219 Breakout"
 			(at 210.1596 43.8912 0)
 			(effects
 				(font
@@ -50063,6 +50695,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
@@ -50312,7 +50945,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 115.6208 119.3292 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50338,7 +50971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 101.1208 124.3292 0)
 			(effects
 				(font
@@ -50364,6 +50997,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -50461,7 +51095,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 175.3108 119.3292 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50487,7 +51121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 160.8108 124.3292 0)
 			(effects
 				(font
@@ -50513,6 +51147,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -50611,7 +51246,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 133.9596 65.4812 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50637,7 +51272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 119.4596 70.4812 0)
 			(effects
 				(font
@@ -50663,6 +51298,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -50826,7 +51462,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:INA219B_breakout_board")
+		(lib_id "power_board_symbols_V1.0:INA219B_breakout_board")
 		(at 152.3492 44.6024 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50850,7 +51486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSAIC_Power_Board:INA219 Breakout"
+		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:INA219 Breakout"
 			(at 149.8092 43.3324 0)
 			(effects
 				(font
@@ -50874,6 +51510,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
@@ -51047,6 +51684,140 @@
 			(project "MOSAIC Power Board"
 				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
 					(reference "#GND021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 114.3 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8628a6bd-fa65-4007-889c-f7d8f0bc5aab")
+		(property "Reference" "H7"
+			(at 116.84 166.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 116.84 168.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+			(at 114.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 114.3 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547533")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 114.3 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8871d981-c15e-45de-92d4-a3a5c3efd6ad")
+		(property "Reference" "H9"
+			(at 116.84 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 116.84 180.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "power_board_footprints_V1.0:MountingHole_3.2mm_Pad_Oval"
+			(at 114.3 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 114.3 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547534")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -51723,7 +52494,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 254 66.04 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51749,7 +52520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 239.5 71.04 0)
 			(effects
 				(font
@@ -51775,10 +52546,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
-			(at 254 66.04 90)
+			(at 254 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51808,7 +52580,74 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 114.3 191.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac5ab379-b87f-4bd7-a028-806d6ec6c91d")
+		(property "Reference" "H10"
+			(at 116.84 189.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 116.84 191.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "power_board_footprints_V1.0:MountingHole_3.2mm_Pad_Oval"
+			(at 114.3 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 114.3 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547535")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 235.0008 65.9892 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51834,7 +52673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 220.5008 70.9892 0)
 			(effects
 				(font
@@ -51860,10 +52699,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
-			(at 235.0008 65.9892 90)
+			(at 235.0008 65.9892 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51893,7 +52733,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 134.62 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51919,7 +52759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 120.12 124.38 0)
 			(effects
 				(font
@@ -51945,6 +52785,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -52043,7 +52884,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 235.6612 119.888 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52069,7 +52910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 221.1612 124.888 0)
 			(effects
 				(font
@@ -52095,6 +52936,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -52256,7 +53098,72 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "main_board_symbols_V1.0:GND")
+		(at 114.3 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd0ef640-39f4-4624-bd4d-c0466551a59d")
+		(property "Reference" "#GND043"
+			(at 114.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 185.674 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c2fb3c6b-a1c5-4aeb-8d53-496615c502b3")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "#GND043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 193.6496 65.4812 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52282,7 +53189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 179.1496 70.4812 0)
 			(effects
 				(font
@@ -52308,10 +53215,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
-			(at 193.6496 65.4812 90)
+			(at 193.6496 65.4812 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52399,6 +53307,71 @@
 			(project "MOSAIC Power Board"
 				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
 					(reference "#GND018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "main_board_symbols_V1.0:GND")
+		(at 114.3 173.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c324b64a-2fb7-45c1-bd0d-072c39cb095a")
+		(property "Reference" "#GND042"
+			(at 114.3 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 174.244 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7ccc0925-d77a-4d55-927b-dbb7b4d4f886")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "#GND042")
 					(unit 1)
 				)
 			)
@@ -52535,7 +53508,72 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:CONN 2mm JST")
+		(lib_id "main_board_symbols_V1.0:GND")
+		(at 114.3 196.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5b798aa-af28-4c01-9596-c943dc263525")
+		(property "Reference" "#GND044"
+			(at 114.3 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 197.104 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "791c72c8-68fc-4f70-869b-dc1c3fc73de0")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "#GND044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power_board_symbols_V1.0:CONN 2mm JST")
 		(at 174.6504 65.4304 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52561,7 +53599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:CONN_S2B-PH-SM4-TB_JST"
+		(property "Footprint" "power_board_footprints_V1.0:CONN_S2B-PH-SM4-TB_JST"
 			(at 160.1504 70.4304 0)
 			(effects
 				(font
@@ -52587,6 +53625,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
@@ -52684,7 +53723,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:INA219B_breakout_board")
+		(lib_id "power_board_symbols_V1.0:INA219B_breakout_board")
 		(at 213.36 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52708,7 +53747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSAIC_Power_Board:INA219 Breakout"
+		(property "Footprint" "MOSAIC_main_board_v1.0_footprints:INA219 Breakout"
 			(at 210.82 97.79 0)
 			(effects
 				(font
@@ -52732,6 +53771,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
@@ -53093,7 +54133,8 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:INA219B_breakout_board")
+		(lib_name "INA219B_breakout_board_3")
+		(lib_id "power_board_symbols_V1.0:INA219B_breakout_board")
 		(at 93.3196 98.5012 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53117,7 +54158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSAIC_Power_Board:INA219 Breakout"
+		(property "Footprint" "power_board_footprints_V1.0:INA219 Breakout"
 			(at 90.7796 97.2312 0)
 			(effects
 				(font
@@ -53141,6 +54182,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
@@ -53180,7 +54222,73 @@
 		)
 	)
 	(symbol
-		(lib_id "MOSAIC_Power_Board:INA219B_breakout_board")
+		(lib_id "main_board_symbols_V1.0:GND")
+		(at 114.3 162.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e62b30c5-ad8a-4fa8-8937-fb778c7f1b4f")
+		(property "Reference" "#GND041"
+			(at 114.3 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 162.814 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify top)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "996ac318-ba50-4229-8f31-0355444c3c59")
+		)
+		(instances
+			(project "MOSAIC Power Board"
+				(path "/834849fe-b55b-436b-adb9-ede9705cd328"
+					(reference "#GND041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "INA219B_breakout_board_2")
+		(lib_id "power_board_symbols_V1.0:INA219B_breakout_board")
 		(at 153.0096 98.5012 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53204,7 +54312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSAIC_Power_Board:INA219 Breakout"
+		(property "Footprint" "power_board_footprints_V1.0:INA219 Breakout"
 			(at 150.4696 97.2312 0)
 			(effects
 				(font
@@ -53228,6 +54336,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Source" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/904/5353628"
