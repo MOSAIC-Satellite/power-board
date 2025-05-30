@@ -5260,7 +5260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:M.2-CONNECTOR-E"
+		(property "Footprint" "power_board_footprints_V1.0:M.2-CONNECTOR-E"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5285,14 +5285,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(symbol "MICROMOD-2222-C_1_0"
