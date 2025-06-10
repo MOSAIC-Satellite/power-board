@@ -187,9 +187,10 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "power_board_footprints_V1.0:SparkFun Lithium Ion Battery - 2Ah"
 			(at 0 1.524 90)
 			(effects
 				(font
@@ -198,7 +199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/parts/1/1/4/6/2/MSDS_605068a.pdf"
 			(at 0 1.524 90)
 			(effects
 				(font
@@ -208,6 +209,15 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Source" "https://www.sparkfun.com/components/power/battery.html"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1321,7 +1331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:JST-2-SMD"
+		(property "Footprint" "power_board_footprints_V1.0:JST-2-SMD"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1348,12 +1358,13 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
+		(property "Source" "https://www.mouser.com/ProductDetail/485-1769"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "JST_2MM_MALE_1_0"
@@ -45341,7 +45352,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:JST04_1MM_VERT"
+		(property "Footprint" "power_board_footprints_V1.0:JST04_1MM_RA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45350,7 +45361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/parts/1/2/2/8/9/Qwiic_Connector_Datasheet.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45368,12 +45379,13 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
+		(property "Source" "https://www.mouser.com/ProductDetail/Adafruit/4208?qs=PzGy0jfpSMtbScLbr0L5dw%3D%3D"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "QWIIC_CONNECTOR_1_0"
@@ -45880,7 +45892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:PAD.03X.05"
+		(property "Footprint" "power_board_footprints_V1.0:PAD.03X.05"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45905,14 +45917,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(symbol "TEST-POINT3X5_1_0"
