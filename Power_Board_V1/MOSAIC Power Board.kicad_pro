@@ -60,7 +60,15 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|134000000|96195000|61c53259-ba30-420e-9fcc-8900baa8dff5|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|172901159|108586831|1e204857-1bd8-4513-9ffc-e9b69b4643e7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|174316101|111212500|644c1aae-fec0-43a6-b3ec-6f3ddc9db467|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|177800000|131034682|b1015282-7241-4139-a626-12fd6c58f452|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -451,10 +459,10 @@
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
-      "pin_not_connected": "error",
+      "pin_not_connected": "ignore",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",

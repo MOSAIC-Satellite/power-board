@@ -5280,7 +5280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5289,7 +5289,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2977809"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45361,7 +45370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/parts/1/2/2/8/9/Qwiic_Connector_Datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45370,7 +45379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/C145956"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45379,7 +45388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.mouser.com/ProductDetail/Adafruit/4208?qs=PzGy0jfpSMtbScLbr0L5dw%3D%3D"
+		(property "JLCPCB Part #" "C145956"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45752,7 +45761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:STAND-OFF-REFLOW-M2.5"
+		(property "Footprint" "power_board_footprints_V1.0:STAND-OFF-REFLOW-M2.5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -45777,14 +45786,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(symbol "STAND-OFF-REFLOW-M2.5_2.5MM_TALL_1_0"
