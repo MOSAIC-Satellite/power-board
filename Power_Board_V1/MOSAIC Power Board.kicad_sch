@@ -47087,7 +47087,7 @@
 	)
 	(wire
 		(pts
-			(xy 56.9468 160.1724) (xy 56.9468 157.9372)
+			(xy 57.3259 160.2232) (xy 57.3259 157.988)
 		)
 		(stroke
 			(width 0)
@@ -47187,7 +47187,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.5752 160.1724) (xy 56.9468 160.1724)
+			(xy 55.5752 160.2232) (xy 57.3259 160.2232)
 		)
 		(stroke
 			(width 0)
@@ -47477,7 +47477,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.3184 172.8216) (xy 58.3184 180.34)
+			(xy 58.3184 172.7708) (xy 58.3184 180.34)
 		)
 		(stroke
 			(width 0)
@@ -47767,7 +47767,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.5752 172.8216) (xy 58.3184 172.8216)
+			(xy 55.5752 172.7708) (xy 58.3184 172.7708)
 		)
 		(stroke
 			(width 0)
@@ -48216,7 +48216,7 @@
 		(uuid "bfd34ea0-b54c-4c4b-a661-6373e39019c5")
 	)
 	(label "SOLAR_IN"
-		(at 55.5752 170.2816 0)
+		(at 55.5752 170.2308 0)
 		(effects
 			(font
 				(size 1 1)
@@ -49472,7 +49472,7 @@
 	)
 	(symbol
 		(lib_id "MOSAIC_Power_Board:VIN")
-		(at 56.9468 157.9372 0)
+		(at 57.3259 157.988 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49480,7 +49480,7 @@
 		(dnp no)
 		(uuid "251b1c4b-978d-43b2-b437-98aa4f831154")
 		(property "Reference" "#SUPPLY04"
-			(at 56.9468 157.9372 0)
+			(at 57.3259 157.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49489,7 +49489,7 @@
 			)
 		)
 		(property "Value" "VIN"
-			(at 55.6768 154.1272 0)
+			(at 56.0559 154.178 0)
 			(effects
 				(font
 					(size 1 1)
@@ -49498,7 +49498,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 56.9468 157.9372 0)
+			(at 57.3259 157.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49507,7 +49507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 56.9468 157.9372 0)
+			(at 57.3259 157.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49516,7 +49516,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 56.9468 157.9372 0)
+			(at 57.3259 157.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
