@@ -42919,7 +42919,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 				(at 0 -24 0)
 				(effects
 					(font
@@ -42928,7 +42928,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+			(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 				(at 0 0 0)
 				(effects
 					(font
@@ -42937,8 +42937,8 @@
 					(hide yes)
 				)
 			)
-			(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-				(at 0 -19 0)
+			(property "JLCPCB Part #" "C435857"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -43301,7 +43301,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 				(at 8.5 -21 0)
 				(effects
 					(font
@@ -43311,7 +43311,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 				(at 0 0 0)
 				(effects
 					(font
@@ -43320,7 +43320,7 @@
 					(hide yes)
 				)
 			)
-			(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+			(property "JLCPCB Part #" "C295747"
 				(at 0 0 0)
 				(effects
 					(font
@@ -48466,7 +48466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 			(at 189.8904 82.7816 0)
 			(effects
 				(font
@@ -48475,7 +48475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+		(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 			(at 189.8904 106.7816 0)
 			(effects
 				(font
@@ -48484,8 +48484,8 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-			(at 189.8904 87.7816 0)
+		(property "JLCPCB Part #" "C435857"
+			(at 189.8904 106.7816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48545,7 +48545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 93.9604 73.9304 0)
 			(effects
 				(font
@@ -48555,7 +48555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 114.9604 65.4304 0)
 			(effects
 				(font
@@ -48564,7 +48564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 114.9604 65.4304 0)
 			(effects
 				(font
@@ -48714,7 +48714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 			(at 130.2004 82.7816 0)
 			(effects
 				(font
@@ -48723,7 +48723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+		(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 			(at 130.2004 106.7816 0)
 			(effects
 				(font
@@ -48732,8 +48732,8 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-			(at 130.2004 87.7816 0)
+		(property "JLCPCB Part #" "C435857"
+			(at 130.2004 106.7816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48939,7 +48939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 			(at 250.2408 83.3404 0)
 			(effects
 				(font
@@ -48948,7 +48948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+		(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 			(at 250.2408 107.3404 0)
 			(effects
 				(font
@@ -48957,8 +48957,8 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-			(at 250.2408 88.3404 0)
+		(property "JLCPCB Part #" "C435857"
+			(at 250.2408 107.3404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49726,7 +49726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 173.31 127.88 0)
 			(effects
 				(font
@@ -49736,7 +49736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 194.31 119.38 0)
 			(effects
 				(font
@@ -49745,7 +49745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 194.31 119.38 0)
 			(effects
 				(font
@@ -49810,7 +49810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 			(at 129.54 28.8828 0)
 			(effects
 				(font
@@ -49819,7 +49819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+		(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 			(at 129.54 52.8828 0)
 			(effects
 				(font
@@ -49828,8 +49828,8 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-			(at 129.54 33.8828 0)
+		(property "JLCPCB Part #" "C435857"
+			(at 129.54 52.8828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50150,7 +50150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 233.6604 128.4388 0)
 			(effects
 				(font
@@ -50160,7 +50160,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 254.6604 119.9388 0)
 			(effects
 				(font
@@ -50169,7 +50169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 254.6604 119.9388 0)
 			(effects
 				(font
@@ -50406,7 +50406,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "169cf1cd-fa8d-44f6-ae45-682aabb0b419")
+			(uuid "169cf1cd-fa8d-44f6-ae45-682aabb0b41a")
 		)
 		(instances
 			(project ""
@@ -50665,7 +50665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 94.6208 127.8292 0)
 			(effects
 				(font
@@ -50675,7 +50675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 115.6208 119.3292 0)
 			(effects
 				(font
@@ -50684,7 +50684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 115.6208 119.3292 0)
 			(effects
 				(font
@@ -50815,7 +50815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 154.3108 127.8292 0)
 			(effects
 				(font
@@ -50825,7 +50825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 175.3108 119.3292 0)
 			(effects
 				(font
@@ -50834,7 +50834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 175.3108 119.3292 0)
 			(effects
 				(font
@@ -50966,7 +50966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 112.9596 73.9812 0)
 			(effects
 				(font
@@ -50976,7 +50976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 133.9596 65.4812 0)
 			(effects
 				(font
@@ -50985,7 +50985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 133.9596 65.4812 0)
 			(effects
 				(font
@@ -51268,7 +51268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 			(at 249.5804 29.4416 0)
 			(effects
 				(font
@@ -51277,7 +51277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+		(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 			(at 249.5804 53.4416 0)
 			(effects
 				(font
@@ -51286,8 +51286,8 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-			(at 249.5804 34.4416 0)
+		(property "JLCPCB Part #" "C435857"
+			(at 249.5804 53.4416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51752,7 +51752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906703600930816"
 			(at 189.23 28.8828 0)
 			(effects
 				(font
@@ -51761,7 +51761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 20V 1A SOD323"
+		(property "Description" "https://jlcpcb.com/partdetail/433228-B5817WSTP/C435857"
 			(at 189.23 52.8828 0)
 			(effects
 				(font
@@ -51770,8 +51770,8 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/micro-commercial-co/B5817WS-TP/2213553"
-			(at 189.23 33.8828 0)
+		(property "JLCPCB Part #" "C435857"
+			(at 189.23 52.8828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52107,7 +52107,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "169cf1cd-fa8d-44f6-ae45-682aabb0b419")
+			(uuid "169cf1cd-fa8d-44f6-ae45-682aabb0b41b")
 		)
 		(instances
 			(project ""
@@ -52302,7 +52302,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "169cf1cd-fa8d-44f6-ae45-682aabb0b419")
+			(uuid "169cf1cd-fa8d-44f6-ae45-682aabb0b41c")
 		)
 		(instances
 			(project ""
@@ -52350,7 +52350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 233 74.54 0)
 			(effects
 				(font
@@ -52360,7 +52360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 254 66.04 0)
 			(effects
 				(font
@@ -52369,7 +52369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 254 66.04 0)
 			(effects
 				(font
@@ -52503,7 +52503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 214.0008 74.4892 0)
 			(effects
 				(font
@@ -52513,7 +52513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 235.0008 65.9892 0)
 			(effects
 				(font
@@ -52522,7 +52522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 235.0008 65.9892 0)
 			(effects
 				(font
@@ -52589,7 +52589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 113.62 127.88 0)
 			(effects
 				(font
@@ -52599,7 +52599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 134.62 119.38 0)
 			(effects
 				(font
@@ -52608,7 +52608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 134.62 119.38 0)
 			(effects
 				(font
@@ -52740,7 +52740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 214.6612 128.388 0)
 			(effects
 				(font
@@ -52750,7 +52750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 235.6612 119.888 0)
 			(effects
 				(font
@@ -52759,7 +52759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 235.6612 119.888 0)
 			(effects
 				(font
@@ -53019,7 +53019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 172.6496 73.9812 0)
 			(effects
 				(font
@@ -53029,7 +53029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 193.6496 65.4812 0)
 			(effects
 				(font
@@ -53038,7 +53038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 193.6496 65.4812 0)
 			(effects
 				(font
@@ -53430,7 +53430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 153.6504 73.9304 0)
 			(effects
 				(font
@@ -53440,7 +53440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 174.6504 65.4304 0)
 			(effects
 				(font
@@ -53449,7 +53449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB/926655"
+		(property "JLCPCB Part #" "C295747"
 			(at 174.6504 65.4304 0)
 			(effects
 				(font
