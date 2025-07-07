@@ -46221,7 +46221,7 @@
 		)
 		(uuid "1c39882e-0c63-4417-9303-2967ed243ac4")
 	)
-	(text "(0x41)"
+	(text "(0x44)"
 		(exclude_from_sim no)
 		(at 91.8972 109.474 90)
 		(effects
@@ -46298,7 +46298,7 @@
 		)
 		(uuid "577fe5e4-837a-4913-b279-9caf98d69565")
 	)
-	(text "(0x40)"
+	(text "(0x44)"
 		(exclude_from_sim no)
 		(at 91.2368 55.5752 90)
 		(effects
@@ -46397,7 +46397,7 @@
 		)
 		(uuid "cb95793c-3ad9-4f0f-b33a-64e4e31f3f3f")
 	)
-	(text "(0x45)"
+	(text "(0x41)"
 		(exclude_from_sim no)
 		(at 211.9376 110.0328 90)
 		(effects
@@ -46408,7 +46408,7 @@
 		)
 		(uuid "e1de2665-b7c9-4726-99b2-0d45a43d9b09")
 	)
-	(text "(0x41)"
+	(text "(0x44)"
 		(exclude_from_sim no)
 		(at 150.9268 55.5752 90)
 		(effects
@@ -46452,7 +46452,7 @@
 		)
 		(uuid "e4fddb22-716f-4e10-8f73-f4d14c82d6c5")
 	)
-	(text "(0x44)"
+	(text "(0x45)"
 		(exclude_from_sim no)
 		(at 43.8912 168.7068 90)
 		(effects
