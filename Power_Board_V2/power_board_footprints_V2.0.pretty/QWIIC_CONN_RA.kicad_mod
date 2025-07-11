@@ -1,0 +1,183 @@
+(footprint "QWIIC_CONN_RA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<h3>SMD- 4 Pin Right Angle </h3>\n<p>Specifications:\n<ul><li>Pin count:4</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>CONN_04</li>\n</ul></p>")
+	(property "Reference" "REF**"
+		(at -1.397 2.159 0)
+		(layer "F.SilkS")
+		(uuid "13d256d3-99ca-4eaf-a9c7-4eeae0949bec")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "CONN_QWIIC"
+		(at -1.651 3.302 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1942a9d4-8ced-4291-9895-8d5d9e40be15")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e7124f5-51de-4f27-a209-a1010a450027")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c113d8d5-bfc1-449f-988f-240492cd4b9a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3 0.35)
+		(end -2.25 0.35)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8dccb2e6-82c6-45ff-bc0b-6aad287775b7")
+	)
+	(fp_line
+		(start -3 2)
+		(end -3 0.35)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "92ee6cd2-7d49-407a-a22c-54e9006de776")
+	)
+	(fp_line
+		(start -1.5 4.6)
+		(end 1.5 4.6)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ee5d60e9-c602-4248-96b0-fb811a293cc7")
+	)
+	(fp_line
+		(start 2.25 0.35)
+		(end 3 0.35)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9633b3aa-dc91-4fdb-8a38-b0d30eb84136")
+	)
+	(fp_line
+		(start 3 0.35)
+		(end 3 2)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf586b03-9880-4ddf-aa76-9f3eab9a55b8")
+	)
+	(fp_circle
+		(center -2.5 -0.3)
+		(end -2.3984 -0.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ca610187-1acb-42a8-ada0-3a425cc8d11a")
+	)
+	(pad "1" smd roundrect
+		(at -1.5 0)
+		(size 0.6 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.08466666667)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "d1b30baa-f0d7-41c8-9883-ae52e6b9b66f")
+	)
+	(pad "2" smd roundrect
+		(at -0.5 0)
+		(size 0.6 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.08466666667)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "2efa0435-fd28-4568-88f7-7b0f948add88")
+	)
+	(pad "3" smd roundrect
+		(at 0.5 0)
+		(size 0.6 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.08466666667)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "6684f036-ee04-4bf5-bfef-6ce9e9e0d67e")
+	)
+	(pad "4" smd roundrect
+		(at 1.5 0)
+		(size 0.6 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.08466666667)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "26b38c34-a2ca-44fc-ae83-a4bd74d26f11")
+	)
+	(pad "NC1" smd roundrect
+		(at 2.8 3.675)
+		(size 1.2 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.04233333333)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "4f21cc37-6d73-4bfa-b30e-948f506522ef")
+	)
+	(pad "NC2" smd roundrect
+		(at -2.8 3.675)
+		(size 1.2 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.04233333333)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "f655df60-c79f-4e70-8924-1b9568514e77")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/packages3d/Qwiic_CONN_RA.step"
+		(offset
+			(xyz 0 -3.683 1.905)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
