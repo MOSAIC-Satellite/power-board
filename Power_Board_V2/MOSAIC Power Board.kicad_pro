@@ -472,6 +472,15 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 39,
+        "line_style": 0,
+        "name": "V_Qwiic",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "wire_width": 20
       }
     ],
     "meta": {
