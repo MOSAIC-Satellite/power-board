@@ -1,0 +1,113 @@
+(footprint "1X02_NO_SILK"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<h3>Plated Through Hole - No Silk Outline</h3>\n<p>Specifications:\n<ul><li>Pin count:2</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>CONN_02</li>\n</ul></p>")
+	(property "Reference" "REF**"
+		(at 0.3 -1.5 0)
+		(layer "F.SilkS")
+		(uuid "77ac8875-d01e-4503-bd81-089d3b9fe227")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "~"
+		(at -1.5 3.8 0)
+		(layer "F.Fab")
+		(uuid "dc8ad5f6-eff6-4959-9951-c6d4cc6522d7")
+		(effects
+			(font
+				(size 0.48768 0.48768)
+				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a42fb3c-51c1-4fc1-96ac-beaf95196a28")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83859cd7-6e24-46c8-a9f8-02c0192621e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -0.254 0.254) (xy 0.254 0.254) (xy 0.254 -0.254) (xy -0.254 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "a9ba0063-62b3-42ac-954a-330947b14e83")
+	)
+	(fp_poly
+		(pts
+			(xy 2.286 0.254) (xy 2.794 0.254) (xy 2.794 -0.254) (xy 2.286 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "93b2cd78-812d-49e6-a997-cb34df0b8983")
+	)
+	(fp_text user "GND"
+		(at -1.4 1.2 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7232adfa-6600-44da-a58c-c344532da953")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0 90)
+		(size 1.8796 1.8796)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "7c8fdd14-d075-408a-8630-759f4823c065")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0 90)
+		(size 1.8796 1.8796)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0635)
+		(thermal_bridge_angle 0)
+		(uuid "1d096a39-506b-4f63-a0df-e4daeeebc52f")
+	)
+	(embedded_fonts no)
+)
