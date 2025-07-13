@@ -8,6 +8,7 @@
 	(property "Reference" "REF**"
 		(at -0.000127 -6.475184 0)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "8ecba490-5e8f-422d-9e9b-c1b82962b139")
 		(effects
 			(font
@@ -19,6 +20,7 @@
 	(property "Value" "CONN-SMD_2P-P2.00_PH2.0-SPWB"
 		(at -0.000127 5.175006 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "efce8225-3fe4-48f6-8629-389a1b88c7cb")
 		(effects
 			(font
@@ -48,6 +50,18 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.15)
+			)
+		)
+	)
+	(property "FT Rotation Offset" "180"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8fe7af42-9ee7-4efe-840e-2b6520c9a0ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 		)
 	)

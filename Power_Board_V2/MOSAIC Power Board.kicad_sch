@@ -47526,6 +47526,16 @@
 		)
 		(uuid "87facb0a-56a6-45af-8279-8295ef80b834")
 	)
+	(text "I2C Address: 0x70"
+		(exclude_from_sim no)
+		(at 353.822 138.176 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "93f94bbf-4673-46ac-ab9e-dcb68a758021")
+	)
 	(text "Cut JP3 and JP4\nto disable pullups"
 		(exclude_from_sim no)
 		(at 393.446 172.974 0)
