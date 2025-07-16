@@ -2,7 +2,7 @@
 
 This is the repository for MOSAIC's Power Board.
 
-For detailed documentation on the Power Board, check out its core documentation [here](https://www.mosaicsat.org/core_documentation/hardware/power_board/).
+For detailed information on the Power Board, check out its core documentation [here](https://www.mosaicsat.org/core_documentation/hardware/power_board/).
 
 To get your own MOSAIC Power Board, visit the MOSAIC fabrication guide [here](https://www.mosaicsat.org/getting_mosaic/).
 
