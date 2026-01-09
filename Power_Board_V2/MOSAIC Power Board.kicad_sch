@@ -47292,7 +47292,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 				(at -2.286 0.127 0)
 				(effects
 					(font
@@ -47302,7 +47302,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+			(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 				(at 0 0 0)
 				(effects
 					(font
@@ -47311,7 +47311,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C110527"
+			(property "LCSC" "C151039"
 				(at 0 0 0)
 				(effects
 					(font
@@ -51931,7 +51931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 328.803 72.136 0)
 			(effects
 				(font
@@ -51941,7 +51941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 328.93 69.85 0)
 			(effects
 				(font
@@ -51950,7 +51950,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 328.93 69.85 0)
 			(effects
 				(font
@@ -52694,7 +52694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 222.123 163.576 0)
 			(effects
 				(font
@@ -52704,7 +52704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 222.25 161.29 0)
 			(effects
 				(font
@@ -52713,7 +52713,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 222.25 161.29 0)
 			(effects
 				(font
@@ -53493,7 +53493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 222.123 67.056 0)
 			(effects
 				(font
@@ -53503,7 +53503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 222.25 64.77 0)
 			(effects
 				(font
@@ -53512,7 +53512,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 222.25 64.77 0)
 			(effects
 				(font
@@ -55878,7 +55878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 145.923 67.056 0)
 			(effects
 				(font
@@ -55888,7 +55888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 146.05 64.77 0)
 			(effects
 				(font
@@ -55897,7 +55897,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 146.05 64.77 0)
 			(effects
 				(font
@@ -59935,7 +59935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 222.123 114.046 0)
 			(effects
 				(font
@@ -59945,7 +59945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 222.25 111.76 0)
 			(effects
 				(font
@@ -59954,7 +59954,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 222.25 111.76 0)
 			(effects
 				(font
@@ -61485,7 +61485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 145.923 114.046 0)
 			(effects
 				(font
@@ -61495,7 +61495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 146.05 111.76 0)
 			(effects
 				(font
@@ -61504,7 +61504,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 146.05 111.76 0)
 			(effects
 				(font
@@ -62139,7 +62139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 145.923 163.576 0)
 			(effects
 				(font
@@ -62149,7 +62149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 146.05 161.29 0)
 			(effects
 				(font
@@ -62158,7 +62158,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 146.05 161.29 0)
 			(effects
 				(font

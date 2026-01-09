@@ -174,7 +174,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -186,7 +186,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -198,7 +198,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1313,7 +1313,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1325,7 +1325,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1337,7 +1337,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2168,7 +2168,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2180,7 +2180,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2192,7 +2192,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3856,7 +3856,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3868,7 +3868,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3880,7 +3880,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4016,7 +4016,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4028,7 +4028,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4040,7 +4040,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10503,7 +10503,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10515,7 +10515,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10527,7 +10527,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21390,7 +21390,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560078683311935488"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880030219190272"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -21403,7 +21403,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V2_13F/C110527"
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-SMAZ6V8_13F/C151039"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -21416,7 +21416,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C110527"
+		(property "LCSC" "C151039"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
